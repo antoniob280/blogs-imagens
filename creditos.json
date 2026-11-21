@@ -232,5 +232,23 @@
   "licenca": "nossa; dados em pesquisa.md",
   "pagina": "",
   "artigo": "Blog 1/003"
+ },
+ "light-years-wide/004/livre_quasar_ilustracao.jpg": {
+  "autor": "NASA",
+  "licenca": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Black_hole_quasar_NASA.jpg",
+  "artigo": "Blog 1/004"
+ },
+ "light-years-wide/004/nosso_escala5_ton618.png": {
+  "autor": "Light Years Wide (gráfico por código)",
+  "licenca": "Própria",
+  "pagina": "",
+  "artigo": "Blog 1/004"
+ },
+ "light-years-wide/004/nosso_limite_50bi.png": {
+  "autor": "Light Years Wide (gráfico por código)",
+  "licenca": "Própria",
+  "pagina": "",
+  "artigo": "Blog 1/004"
  }
 }
