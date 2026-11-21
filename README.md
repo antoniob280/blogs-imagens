@@ -14,6 +14,10 @@ Cada arquivo mantém a licença original; gráficos próprios são do blog indic
 | `ice-and-bone/002/mezhyrich_reconstrucao_museu.jpg` | Momotarou2012 | CC BY-SA 3.0 | [link](https://commons.wikimedia.org/wiki/File:Dwelling_made_with_mammoth_bones.jpg) |
 | `ice-and-bone/002/pedra_moer_paleolitica.jpg` | Gary Todd | CC0 | [link](https://commons.wikimedia.org/wiki/File:Stone_Age_Stone_Mortar_%26_Pestle,_Kebaran_culture,_22000-18000_BP.jpg) |
 | `ice-and-bone/002/qesem_ossos.jpg` | Ruth Blasco | CC BY 4.0 | [link](https://commons.wikimedia.org/wiki/File:Qesem_Cave_burned_animal_bones.jpg) |
+| `ice-and-bone/003/livre_lampada_lascaux.jpg` | Sémhur | CC BY-SA 4.0 | [link](https://commons.wikimedia.org/wiki/File:Lampe_a_graisse_-_Lascaux.jpg) |
+| `ice-and-bone/003/livre_malta_agulhas.jpg` | Лапоть | CC0 | [link](https://commons.wikimedia.org/wiki/File:Malta_artefacts_3_GIM.jpg) |
+| `ice-and-bone/003/livre_mezhyrich_ossos.jpg` | Momotarou2012 | CC BY-SA 3.0 | [link](https://commons.wikimedia.org/wiki/File:Dwelling_made_with_mammoth_bones.jpg) |
+| `ice-and-bone/003/livre_sibudu_abrigo.jpg` | M. Ecker | CC BY 4.0 | [link](https://commons.wikimedia.org/wiki/File:10.1371.journal.pone.0098359.g002.jpg) |
 | `light-years-wide/001/livre_ferradura_hubble.jpg` | ESA/Hubble &amp; NASA | Public domain | [link](https://commons.wikimedia.org/wiki/File:Lensshoe_hubble.jpg) |
 | `light-years-wide/001/livre_m87_eht.jpg` | Event Horizon Telescope | CC BY 4.0 | [link](https://commons.wikimedia.org/wiki/File:Black_hole_-_Messier_87.jpg) |
 | `light-years-wide/001/livre_sgr_a_eht.jpg` | EHT Collaboration | CC BY 4.0 | [link](https://commons.wikimedia.org/wiki/File:Sag_A*.jpg) |
