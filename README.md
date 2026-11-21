@@ -9,3 +9,7 @@ Cada arquivo mantém a licença original; gráficos próprios são do blog indic
 | `light-years-wide/001/livre_m87_eht.jpg` | Event Horizon Telescope | CC BY 4.0 | [link](https://commons.wikimedia.org/wiki/File:Black_hole_-_Messier_87.jpg) |
 | `light-years-wide/001/livre_sgr_a_eht.jpg` | EHT Collaboration | CC BY 4.0 | [link](https://commons.wikimedia.org/wiki/File:Sag_A*.jpg) |
 | `light-years-wide/001/nosso_escala3_m87_voyager.png` | Light Years Wide (gráfico por código) | Própria |  |
+| `the-other-pantheons/001/enma_pintura.jpg` | Kawanabe Kyōsai | Public domain | [link](https://commons.wikimedia.org/wiki/File:Kyosai_painting_on_silk_of_Emma,_the_King_of_Hell,_walking_with_Jigokudayu.jpg) |
+| `the-other-pantheons/001/izanagi_izanami_eitaku.jpg` | Kobayashi Eitaku | Public domain | [link](https://commons.wikimedia.org/wiki/File:Kobayashi_Eitaku_-_Izanami_and_Izanagi_creating_the_Japanese_Islands_alternate_version_HD.jpg) |
+| `the-other-pantheons/001/jizo_estatuas_foto.jpg` | Jakub Hałun | CC BY 4.0 | [link](https://commons.wikimedia.org/wiki/File:Jiz%C5%8D_statues_at_Yasaka_Shrine_in_Nagasaki,_20240815_1311_3653.jpg) |
+| `the-other-pantheons/001/yomotsu_hirasaka_foto.jpg` | ChiefHira | CC BY-SA 3.0 | [link](https://commons.wikimedia.org/wiki/File:Yomotsu_Hirasaka.JPG) |
