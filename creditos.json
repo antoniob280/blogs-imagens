@@ -1,0 +1,26 @@
+{
+ "light-years-wide/001/livre_sgr_a_eht.jpg": {
+  "autor": "EHT Collaboration",
+  "licenca": "CC BY 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Sag_A*.jpg",
+  "artigo": "Blog 1/001"
+ },
+ "light-years-wide/001/livre_m87_eht.jpg": {
+  "autor": "Event Horizon Telescope",
+  "licenca": "CC BY 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Black_hole_-_Messier_87.jpg",
+  "artigo": "Blog 1/001"
+ },
+ "light-years-wide/001/nosso_escala3_m87_voyager.png": {
+  "autor": "Light Years Wide (gráfico por código)",
+  "licenca": "Própria",
+  "pagina": "",
+  "artigo": "Blog 1/001"
+ },
+ "light-years-wide/001/livre_ferradura_hubble.jpg": {
+  "autor": "ESA/Hubble &amp; NASA",
+  "licenca": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Lensshoe_hubble.jpg",
+  "artigo": "Blog 1/001"
+ }
+}
