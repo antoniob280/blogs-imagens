@@ -27,6 +27,10 @@ Cada arquivo mantém a licença original; gráficos próprios são do blog indic
 | `light-years-wide/002/r136_hubble.jpg` | NASA, ESA, F. Paresce (INAF-IASF, Bologna, Italy), R. O'Connell (University of Virginia, Charlottesville), and the Wide Field Camera 3 Science Oversight Committee | Public domain | [link](https://commons.wikimedia.org/wiki/File:Grand_star-forming_region_R136_in_NGC_2070_(captured_by_the_Hubble_Space_Telescope).jpg) |
 | `light-years-wide/002/vy_cma_hubble.jpg` | NASA/ESA and R. Humphreys (University of Minnesota) | Public domain | [link](https://commons.wikimedia.org/wiki/File:Hubble_Images_Outbursts_from_Massive_Star_(opo0703a).jpg) |
 | `light-years-wide/002/woh_g64_vlti.jpg` | ESO/K. Ohnaka et al. | CC BY 4.0 | [link](https://commons.wikimedia.org/wiki/File:WOH_G64_VLTI.jpg) |
+| `light-years-wide/003/gaia_satelite.jpg` | ESA/ATG medialab; background image: ESO/S. Brunier | CC BY 4.0 | [link](https://commons.wikimedia.org/wiki/File:The_Gaia_Spacecraft_(eso1908d).jpg) |
+| `light-years-wide/003/nosso_escala_escada_completa.png` | nosso (Light Years Wide) | nossa; dados em pesquisa.md |  |
+| `light-years-wide/003/nosso_escala_terra_sol.png` | nosso (Light Years Wide) | nossa; dados em pesquisa.md |  |
+| `light-years-wide/003/nosso_escala_uy_scuti_antes_depois.png` | nosso (Light Years Wide) | nossa; dados em pesquisa.md |  |
 | `the-other-pantheons/001/enma_pintura.jpg` | Kawanabe Kyōsai | Public domain | [link](https://commons.wikimedia.org/wiki/File:Kyosai_painting_on_silk_of_Emma,_the_King_of_Hell,_walking_with_Jigokudayu.jpg) |
 | `the-other-pantheons/001/izanagi_izanami_eitaku.jpg` | Kobayashi Eitaku | Public domain | [link](https://commons.wikimedia.org/wiki/File:Kobayashi_Eitaku_-_Izanami_and_Izanagi_creating_the_Japanese_Islands_alternate_version_HD.jpg) |
 | `the-other-pantheons/001/jizo_estatuas_foto.jpg` | Jakub Hałun | CC BY 4.0 | [link](https://commons.wikimedia.org/wiki/File:Jiz%C5%8D_statues_at_Yasaka_Shrine_in_Nagasaki,_20240815_1311_3653.jpg) |
