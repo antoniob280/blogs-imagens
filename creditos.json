@@ -322,5 +322,17 @@
   "licenca": "nossa; dados em pesquisa.md",
   "pagina": "https://nssdc.gsfc.nasa.gov/planetary/factsheet/",
   "artigo": "Blog 1/008"
+ },
+ "ice-and-bone/marca/cabecalho_v1.0.jpg": {
+  "autor": "Ice and Bone (montagem própria sobre pinturas de Lascaux, domínio público)",
+  "licenca": "Própria",
+  "pagina": "",
+  "artigo": "tema do Blog 2"
+ },
+ "the-other-pantheons/marca/cabecalho_v1.0.jpg": {
+  "autor": "The Other Pantheons (montagem própria sobre máscara Hannya do Met, CC0)",
+  "licenca": "Própria",
+  "pagina": "",
+  "artigo": "tema do Blog 3"
  }
 }
