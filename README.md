@@ -18,6 +18,7 @@ Cada arquivo mantém a licença original; gráficos próprios são do blog indic
 | `ice-and-bone/003/livre_malta_agulhas.jpg` | Лапоть | CC0 | [link](https://commons.wikimedia.org/wiki/File:Malta_artefacts_3_GIM.jpg) |
 | `ice-and-bone/003/livre_mezhyrich_ossos.jpg` | Momotarou2012 | CC BY-SA 3.0 | [link](https://commons.wikimedia.org/wiki/File:Dwelling_made_with_mammoth_bones.jpg) |
 | `ice-and-bone/003/livre_sibudu_abrigo.jpg` | M. Ecker | CC BY 4.0 | [link](https://commons.wikimedia.org/wiki/File:10.1371.journal.pone.0098359.g002.jpg) |
+| `ice-and-bone/marca/cabecalho_v1.0.jpg` | Ice and Bone (montagem própria sobre pinturas de Lascaux, domínio público) | Própria |  |
 | `light-years-wide/001/livre_ferradura_hubble.jpg` | ESA/Hubble &amp; NASA | Public domain | [link](https://commons.wikimedia.org/wiki/File:Lensshoe_hubble.jpg) |
 | `light-years-wide/001/livre_m87_eht.jpg` | Event Horizon Telescope | CC BY 4.0 | [link](https://commons.wikimedia.org/wiki/File:Black_hole_-_Messier_87.jpg) |
 | `light-years-wide/001/livre_sgr_a_eht.jpg` | EHT Collaboration | CC BY 4.0 | [link](https://commons.wikimedia.org/wiki/File:Sag_A*.jpg) |
@@ -59,3 +60,4 @@ Cada arquivo mantém a licença original; gráficos próprios são do blog indic
 | `the-other-pantheons/003/met_lamina_obsidiana.jpg` | The Metropolitan Museum of Art | Public domain (CC0, Met Open Access) | [link](https://www.metmuseum.org/art/collection/search/317321) |
 | `the-other-pantheons/003/mictlantecuhtli_templo_mayor.jpg` | Husky | Public domain | [link](https://commons.wikimedia.org/wiki/File:Mictlantecuhtli_(Q109928629)_-_1.jpg) |
 | `the-other-pantheons/003/rios_niveis_mictlan.jpg` | John Pohl | Public domain | [link](https://commons.wikimedia.org/wiki/File:Codex_R%C3%ADos_(folio_20r).jpg) |
+| `the-other-pantheons/marca/cabecalho_v1.0.jpg` | The Other Pantheons (montagem própria sobre máscara Hannya do Met, CC0) | Própria |  |
