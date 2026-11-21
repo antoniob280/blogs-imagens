@@ -26,3 +26,8 @@ Cada arquivo mantém a licença original; gráficos próprios são do blog indic
 | `the-other-pantheons/002/duncan_riders_of_the_sidhe.jpg` | John Duncan | Public domain | [link](https://commons.wikimedia.org/wiki/File:Riders_of_th_Sidhe_(big).jpg) |
 | `the-other-pantheons/002/newgrange_exterior.jpg` | Gobbolino the witch's cat | CC0 | [link](https://commons.wikimedia.org/wiki/File:Newgrange_011.jpg) |
 | `the-other-pantheons/002/reid_oisin_velho.jpg` | STEPHEN REID | Public domain | [link](https://commons.wikimedia.org/wiki/File:16_The_white_steed_had_vanished_from_their_eyes_like_a_wreath_of_mist.jpg) |
+| `the-other-pantheons/003/borgia_56_mictlantecuhtli_quetzalcoatl.jpg` | Unknown authorUnknown author | Public domain | [link](https://commons.wikimedia.org/wiki/File:Codex_Borgia_page_56.jpg) |
+| `the-other-pantheons/003/met_cao_ceramica.jpg` | South central Veracruz artist(s) | Public domain (CC0, Met Open Access) | [link](https://www.metmuseum.org/art/collection/search/310515) |
+| `the-other-pantheons/003/met_lamina_obsidiana.jpg` | The Metropolitan Museum of Art | Public domain (CC0, Met Open Access) | [link](https://www.metmuseum.org/art/collection/search/317321) |
+| `the-other-pantheons/003/mictlantecuhtli_templo_mayor.jpg` | Husky | Public domain | [link](https://commons.wikimedia.org/wiki/File:Mictlantecuhtli_(Q109928629)_-_1.jpg) |
+| `the-other-pantheons/003/rios_niveis_mictlan.jpg` | John Pohl | Public domain | [link](https://commons.wikimedia.org/wiki/File:Codex_R%C3%ADos_(folio_20r).jpg) |
