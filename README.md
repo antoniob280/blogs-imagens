@@ -34,6 +34,10 @@ Cada arquivo mantém a licença original; gráficos próprios são do blog indic
 | `light-years-wide/004/livre_quasar_ilustracao.jpg` | NASA | Public domain | [link](https://commons.wikimedia.org/wiki/File:Black_hole_quasar_NASA.jpg) |
 | `light-years-wide/004/nosso_escala5_ton618.png` | Light Years Wide (gráfico por código) | Própria |  |
 | `light-years-wide/004/nosso_limite_50bi.png` | Light Years Wide (gráfico por código) | Própria |  |
+| `light-years-wide/007/galileo_sonda.jpg` | NASA/Don Davis | Public domain | [link](https://commons.wikimedia.org/wiki/File:Galileo_Descent_Module_descends_through_Jupiter%27s_atmosphere,_artwork,_higher_resolution_(ACD95-0126).jpg) |
+| `light-years-wide/007/jupiter_hubble.jpg` | NASA/STSCI (S.T.A.R.S) | Public domain | [link](https://commons.wikimedia.org/wiki/File:Jupiter_OPAL_2024.png) |
+| `light-years-wide/007/jupiter_juno.jpg` | NASA/JPL-Caltech/MSSS/SwRI/Gerald Eichstädt/Justin Cowart | Public domain | [link](https://commons.wikimedia.org/wiki/File:Jupiter_Southern_Hemisphere_-_Juno_(34724022251).png) |
+| `light-years-wide/007/terra_blue_marble.jpg` | Harrison Schmitt / Apollo 17 | Public domain | [link](https://commons.wikimedia.org/wiki/File:The_Blue_Marble,_AS17-148-22727.jpg) |
 | `the-other-pantheons/001/enma_pintura.jpg` | Kawanabe Kyōsai | Public domain | [link](https://commons.wikimedia.org/wiki/File:Kyosai_painting_on_silk_of_Emma,_the_King_of_Hell,_walking_with_Jigokudayu.jpg) |
 | `the-other-pantheons/001/izanagi_izanami_eitaku.jpg` | Kobayashi Eitaku | Public domain | [link](https://commons.wikimedia.org/wiki/File:Kobayashi_Eitaku_-_Izanami_and_Izanagi_creating_the_Japanese_Islands_alternate_version_HD.jpg) |
 | `the-other-pantheons/001/jizo_estatuas_foto.jpg` | Jakub Hałun | CC BY 4.0 | [link](https://commons.wikimedia.org/wiki/File:Jiz%C5%8D_statues_at_Yasaka_Shrine_in_Nagasaki,_20240815_1311_3653.jpg) |

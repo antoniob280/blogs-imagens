@@ -250,5 +250,29 @@
   "licenca": "Própria",
   "pagina": "",
   "artigo": "Blog 1/004"
+ },
+ "light-years-wide/007/jupiter_hubble.jpg": {
+  "autor": "NASA/STSCI (S.T.A.R.S)",
+  "licenca": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Jupiter_OPAL_2024.png",
+  "artigo": "Blog 1/007"
+ },
+ "light-years-wide/007/terra_blue_marble.jpg": {
+  "autor": "Harrison Schmitt / Apollo 17",
+  "licenca": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:The_Blue_Marble,_AS17-148-22727.jpg",
+  "artigo": "Blog 1/007"
+ },
+ "light-years-wide/007/galileo_sonda.jpg": {
+  "autor": "NASA/Don Davis",
+  "licenca": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Galileo_Descent_Module_descends_through_Jupiter%27s_atmosphere,_artwork,_higher_resolution_(ACD95-0126).jpg",
+  "artigo": "Blog 1/007"
+ },
+ "light-years-wide/007/jupiter_juno.jpg": {
+  "autor": "NASA/JPL-Caltech/MSSS/SwRI/Gerald Eichstädt/Justin Cowart",
+  "licenca": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Jupiter_Southern_Hemisphere_-_Juno_(34724022251).png",
+  "artigo": "Blog 1/007"
  }
 }
