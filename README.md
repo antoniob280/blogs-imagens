@@ -18,3 +18,7 @@ Cada arquivo mantém a licença original; gráficos próprios são do blog indic
 | `the-other-pantheons/001/izanagi_izanami_eitaku.jpg` | Kobayashi Eitaku | Public domain | [link](https://commons.wikimedia.org/wiki/File:Kobayashi_Eitaku_-_Izanami_and_Izanagi_creating_the_Japanese_Islands_alternate_version_HD.jpg) |
 | `the-other-pantheons/001/jizo_estatuas_foto.jpg` | Jakub Hałun | CC BY 4.0 | [link](https://commons.wikimedia.org/wiki/File:Jiz%C5%8D_statues_at_Yasaka_Shrine_in_Nagasaki,_20240815_1311_3653.jpg) |
 | `the-other-pantheons/001/yomotsu_hirasaka_foto.jpg` | ChiefHira | CC BY-SA 3.0 | [link](https://commons.wikimedia.org/wiki/File:Yomotsu_Hirasaka.JPG) |
+| `the-other-pantheons/002/batten_connla.png` | John Dickson Batten | Public domain | [link](https://commons.wikimedia.org/wiki/File:Connla_and_the_Fairy_Maiden_-_Illustration.png) |
+| `the-other-pantheons/002/duncan_riders_of_the_sidhe.jpg` | John Duncan | Public domain | [link](https://commons.wikimedia.org/wiki/File:Riders_of_th_Sidhe_(big).jpg) |
+| `the-other-pantheons/002/newgrange_exterior.jpg` | Gobbolino the witch's cat | CC0 | [link](https://commons.wikimedia.org/wiki/File:Newgrange_011.jpg) |
+| `the-other-pantheons/002/reid_oisin_velho.jpg` | STEPHEN REID | Public domain | [link](https://commons.wikimedia.org/wiki/File:16_The_white_steed_had_vanished_from_their_eyes_like_a_wreath_of_mist.jpg) |
