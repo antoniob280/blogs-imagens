@@ -178,5 +178,35 @@
   "licenca": "CC BY-SA 4.0",
   "pagina": "https://commons.wikimedia.org/wiki/File:Lampe_a_graisse_-_Lascaux.jpg",
   "artigo": "Blog 2/003"
+ },
+ "light-years-wide/002/nosso_escala_terra_sol.png": {
+  "autor": "nosso (Light Years Wide)",
+  "licenca": "nossa; dados em pesquisa.md",
+  "pagina": "",
+  "artigo": "Blog 1/002"
+ },
+ "light-years-wide/002/nosso_escala_uy_scuti_antes_depois.png": {
+  "autor": "nosso (Light Years Wide)",
+  "licenca": "nossa; dados em pesquisa.md",
+  "pagina": "",
+  "artigo": "Blog 1/002"
+ },
+ "light-years-wide/002/vy_cma_hubble.jpg": {
+  "autor": "NASA/ESA and R. Humphreys (University of Minnesota)",
+  "licenca": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Hubble_Images_Outbursts_from_Massive_Star_(opo0703a).jpg",
+  "artigo": "Blog 1/002"
+ },
+ "light-years-wide/002/woh_g64_vlti.jpg": {
+  "autor": "ESO/K. Ohnaka et al.",
+  "licenca": "CC BY 4.0",
+  "pagina": "https://commons.wikimedia.org/wiki/File:WOH_G64_VLTI.jpg",
+  "artigo": "Blog 1/002"
+ },
+ "light-years-wide/002/r136_hubble.jpg": {
+  "autor": "NASA, ESA, F. Paresce (INAF-IASF, Bologna, Italy), R. O'Connell (University of Virginia, Charlottesville), and the Wide Field Camera 3 Science Oversight Committee",
+  "licenca": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Grand_star-forming_region_R136_in_NGC_2070_(captured_by_the_Hubble_Space_Telescope).jpg",
+  "artigo": "Blog 1/002"
  }
 }
