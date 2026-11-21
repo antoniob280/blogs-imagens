@@ -34,6 +34,11 @@ Cada arquivo mantém a licença original; gráficos próprios são do blog indic
 | `light-years-wide/004/livre_quasar_ilustracao.jpg` | NASA | Public domain | [link](https://commons.wikimedia.org/wiki/File:Black_hole_quasar_NASA.jpg) |
 | `light-years-wide/004/nosso_escala5_ton618.png` | Light Years Wide (gráfico por código) | Própria |  |
 | `light-years-wide/004/nosso_limite_50bi.png` | Light Years Wide (gráfico por código) | Própria |  |
+| `light-years-wide/005/livre_centro_via_lactea.jpg` | SCIENCE: NASA, ESA, SSC, CXC, STScI | Public domain | [link](https://commons.wikimedia.org/wiki/File:Galactic_Center_(Chandra,_Hubble,_Spitzer)_(2021-053-01FJHQEC71T0CF7KTRGDYAKBYJ).png) |
+| `light-years-wide/005/livre_sgr_a_eht.jpg` | EHT Collaboration | CC BY 4.0 | [link](https://commons.wikimedia.org/wiki/File:Sag_A*.jpg) |
+| `light-years-wide/005/nosso_escala2_mercurio.png` | Light Years Wide (gráfico por código) | Própria |  |
+| `light-years-wide/005/nosso_escala2_sgr_a_sois.png` | Light Years Wide (gráfico por código) | Própria |  |
+| `light-years-wide/005/nosso_escala3_m87_voyager.png` | Light Years Wide (gráfico por código) | Própria |  |
 | `light-years-wide/007/galileo_sonda.jpg` | NASA/Don Davis | Public domain | [link](https://commons.wikimedia.org/wiki/File:Galileo_Descent_Module_descends_through_Jupiter%27s_atmosphere,_artwork,_higher_resolution_(ACD95-0126).jpg) |
 | `light-years-wide/007/jupiter_hubble.jpg` | NASA/STSCI (S.T.A.R.S) | Public domain | [link](https://commons.wikimedia.org/wiki/File:Jupiter_OPAL_2024.png) |
 | `light-years-wide/007/jupiter_juno.jpg` | NASA/JPL-Caltech/MSSS/SwRI/Gerald Eichstädt/Justin Cowart | Public domain | [link](https://commons.wikimedia.org/wiki/File:Jupiter_Southern_Hemisphere_-_Juno_(34724022251).png) |
