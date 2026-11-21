@@ -304,5 +304,23 @@
   "licenca": "Própria",
   "pagina": "",
   "artigo": "Blog 1/005"
+ },
+ "light-years-wide/008/saturno_cassini.jpg": {
+  "autor": "NASA / JPL-Caltech / SSI / color composite by Gordan Ugarkovic",
+  "licenca": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:Saturn_global_view_from_Cassini,_rings_open_Better_Colour.png",
+  "artigo": "Blog 1/008"
+ },
+ "light-years-wide/008/cassini_grand_finale.jpg": {
+  "autor": "NASA/JPL-Caltech",
+  "licenca": "Public domain",
+  "pagina": "https://commons.wikimedia.org/wiki/File:PIA21439_-_Cassini_Grand_Finale_Dive_(Illustration).jpg",
+  "artigo": "Blog 1/008"
+ },
+ "light-years-wide/008/nosso_velocidades.png": {
+  "autor": "Light Years Wide (feito por código; dados NASA NSSDC)",
+  "licenca": "nossa; dados em pesquisa.md",
+  "pagina": "https://nssdc.gsfc.nasa.gov/planetary/factsheet/",
+  "artigo": "Blog 1/008"
  }
 }
