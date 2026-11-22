@@ -85,8 +85,10 @@
   };
   var HERO = {"en":{"kicker":"GTA 6 guides","titulo":"The right way to do it in GTA 6.","subtitulo":"Missions, money, cars and secrets of Leonida, step by step and checked against more than one source.","rodape":"GTA 6 guides: missions, money, cars, collectibles and secrets, step by step. Fan blog, not affiliated with Rockstar Games or Take-Two Interactive. Companion blog to the Games na Vida Real YouTube channel.","creditos":"Official Rockstar Games images and our own maps, credited in each guide. GTA and Grand Theft Auto are trademarks of Take-Two Interactive.","imagem_hero":"https://cdn.jsdelivr.net/gh/antoniob280/blogs-imagens@main/detonado-leonida/marca/cabecalho_en_v1.0.jpg"},"es":{"kicker":"Guías de GTA 6","titulo":"La forma correcta de hacerlo en GTA 6.","subtitulo":"Misiones, dinero, autos y secretos de Leonida, paso a paso y comprobados en más de una fuente.","rodape":"Guías de GTA 6: misiones, dinero, autos, coleccionables y secretos, paso a paso. Blog de fans, sin relación con Rockstar Games ni Take-Two Interactive. Blog del canal de YouTube Games na Vida Real.","creditos":"Imágenes oficiales de Rockstar Games y mapas propios, con crédito en cada guía. GTA y Grand Theft Auto son marcas de Take-Two Interactive.","imagem_hero":"https://cdn.jsdelivr.net/gh/antoniob280/blogs-imagens@main/detonado-leonida/marca/cabecalho_es_v1.0.jpg"}};
   var uiAtual = UI[BASE] || UI.en;
+  raiz.setAttribute('lang', BASE);  // v1.8: idioma do blog, mesmo com a configuração do Blogger em outro idioma
   var aplicarIdioma = function (l) {
-    if (!UI[l] || l === BASE) return;
+    if (l) raiz.setAttribute('lang', l);  // v1.8: a página inteira no idioma aberto
+    if (!UI[l] || (l === BASE && BASE === 'en')) return;  // v1.8: textos fixos do modelo são em inglês; blog em outro idioma também troca
     uiAtual = UI[l];
     var els = document.querySelectorAll('[data-i18n]');
     for (var i = 0; i < els.length; i++) {
@@ -112,6 +114,7 @@
     if (hero && h.imagem_hero) hero.style.backgroundImage = "url('" + h.imagem_hero + "')";
     if (hero && l === 'ar') { var hi_ = hero.querySelector('.hero-in'); if (hi_) hi_.setAttribute('dir', 'rtl'); }
   };
+  if (BASE !== 'en') aplicarIdioma(BASE);  // v1.8: blog em português (Blog 5): menu, botões e rodapé no idioma do blog em toda página
   var guardado = function () { try { return localStorage.getItem('idioma'); } catch (e) { return null; } };
   var guardar = function (l) { try { localStorage.setItem('idioma', l); } catch (e) {} };
   var navegador = function () {
