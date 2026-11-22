@@ -48,6 +48,7 @@ Cada arquivo mantém a licença original; gráficos próprios são do blog indic
 | `light-years-wide/008/nosso_velocidades.png` | Light Years Wide (feito por código; dados NASA NSSDC) | nossa; dados em pesquisa.md | [link](https://nssdc.gsfc.nasa.gov/planetary/factsheet/) |
 | `light-years-wide/008/saturno_cassini.jpg` | NASA / JPL-Caltech / SSI / color composite by Gordan Ugarkovic | Public domain | [link](https://commons.wikimedia.org/wiki/File:Saturn_global_view_from_Cassini,_rings_open_Better_Colour.png) |
 | `the-other-pantheons/001/enma_pintura.jpg` | Kawanabe Kyōsai | Public domain | [link](https://commons.wikimedia.org/wiki/File:Kyosai_painting_on_silk_of_Emma,_the_King_of_Hell,_walking_with_Jigokudayu.jpg) |
+| `the-other-pantheons/001/enma_pintura_rec.jpg` | Kawanabe Kyōsai | Public domain | [link](https://commons.wikimedia.org/wiki/File:Kyosai_painting_on_silk_of_Emma,_the_King_of_Hell,_walking_with_Jigokudayu.jpg) |
 | `the-other-pantheons/001/izanagi_izanami_eitaku.jpg` | Kobayashi Eitaku | Public domain | [link](https://commons.wikimedia.org/wiki/File:Kobayashi_Eitaku_-_Izanami_and_Izanagi_creating_the_Japanese_Islands_alternate_version_HD.jpg) |
 | `the-other-pantheons/001/jizo_estatuas_foto.jpg` | Jakub Hałun | CC BY 4.0 | [link](https://commons.wikimedia.org/wiki/File:Jiz%C5%8D_statues_at_Yasaka_Shrine_in_Nagasaki,_20240815_1311_3653.jpg) |
 | `the-other-pantheons/001/yomotsu_hirasaka_foto.jpg` | ChiefHira | CC BY-SA 3.0 | [link](https://commons.wikimedia.org/wiki/File:Yomotsu_Hirasaka.JPG) |
