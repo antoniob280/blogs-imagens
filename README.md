@@ -47,6 +47,11 @@ Cada arquivo mantém a licença original; gráficos próprios são do blog indic
 | `light-years-wide/008/cassini_grand_finale.jpg` | NASA/JPL-Caltech | Public domain | [link](https://commons.wikimedia.org/wiki/File:PIA21439_-_Cassini_Grand_Finale_Dive_(Illustration).jpg) |
 | `light-years-wide/008/nosso_velocidades.png` | Light Years Wide (feito por código; dados NASA NSSDC) | nossa; dados em pesquisa.md | [link](https://nssdc.gsfc.nasa.gov/planetary/factsheet/) |
 | `light-years-wide/008/saturno_cassini.jpg` | NASA / JPL-Caltech / SSI / color composite by Gordan Ugarkovic | Public domain | [link](https://commons.wikimedia.org/wiki/File:Saturn_global_view_from_Cassini,_rings_open_Better_Colour.png) |
+| `the-last-road-out/001/livre_adamstown.jpg` | doublecnz | CC BY 2.0 | [link](https://commons.wikimedia.org/wiki/File:Adamstown.jpg) |
+| `the-last-road-out/001/livre_bounty_bay.jpg` | Book author: Lady Belcher (Diana Jolliffe Belcher) 1803-1890 | Public domain | [link](https://commons.wikimedia.org/wiki/File:Bounty_Bay_mutineersofbount00belcuoft_0006.jpg) |
+| `the-last-road-out/001/livre_motim_bounty_dodd.jpg` | Robert Dodd | Public domain | [link](https://commons.wikimedia.org/wiki/File:Mutiny_HMS_Bounty.jpg) |
+| `the-last-road-out/001/nosso_mapa_pacifico.png` | nosso (base: Natural Earth) | nossa; base Natural Earth em domínio público | [link](https://www.naturalearthdata.com/) |
+| `the-last-road-out/001/nosso_mapa_reserva.png` | nosso (base: Natural Earth) | nossa; base Natural Earth em domínio público | [link](https://www.naturalearthdata.com/) |
 | `the-last-road-out/marca/cabecalho_v1.0.jpg` | Bob Wick, Bureau of Land Management (recorte de "My Public Lands Roadtrip- Dalton Highway in Alaska") | Public domain | [link](https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Dalton_Highway_in_Alaska_(18688661384).jpg) |
 | `the-other-pantheons/001/enma_pintura.jpg` | Kawanabe Kyōsai | Public domain | [link](https://commons.wikimedia.org/wiki/File:Kyosai_painting_on_silk_of_Emma,_the_King_of_Hell,_walking_with_Jigokudayu.jpg) |
 | `the-other-pantheons/001/enma_pintura_rec.jpg` | Kawanabe Kyōsai | Public domain | [link](https://commons.wikimedia.org/wiki/File:Kyosai_painting_on_silk_of_Emma,_the_King_of_Hell,_walking_with_Jigokudayu.jpg) |
