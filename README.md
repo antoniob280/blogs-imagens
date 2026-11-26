@@ -57,6 +57,10 @@ Cada arquivo mantém a licença original; gráficos próprios são do blog indic
 | `the-last-road-out/002/livre_stroganina.jpg` | Alexander Grebenkov | CC BY 3.0 | [link](https://commons.wikimedia.org/wiki/File:Atlantic_Bonito_Stroganina_2.jpg) |
 | `the-last-road-out/002/nosso_mapa_polos_frio.png` | nosso (base: Natural Earth) | nossa; base Natural Earth em domínio público | [link](https://www.naturalearthdata.com/) |
 | `the-last-road-out/002/nosso_mapa_yakutia.png` | nosso (base: Natural Earth) | nossa; base Natural Earth em domínio público | [link](https://www.naturalearthdata.com/) |
+| `the-last-road-out/003/livre_barco_pesca.jpg` | Brian Gratwicke | CC BY 2.0 | [link](https://commons.wikimedia.org/wiki/File:Tristan_da_Cunha_-_Lobster_longboat.jpg) |
+| `the-last-road-out/003/livre_vila_edinburgh.jpg` | michael clarke stuff | CC BY-SA 2.0 | [link](https://commons.wikimedia.org/wiki/File:Edinburgh_of_the_Seven_Seas_02.jpg) |
+| `the-last-road-out/003/nosso_mapa_atlantico.png` | nosso (base: Natural Earth) | nossa; base Natural Earth em domínio público | [link](https://www.naturalearthdata.com/) |
+| `the-last-road-out/003/nosso_mapa_evacuacao.png` | nosso (base: Natural Earth) | nossa; base Natural Earth em domínio público | [link](https://www.naturalearthdata.com/) |
 | `the-last-road-out/marca/cabecalho_v1.0.jpg` | Bob Wick, Bureau of Land Management (recorte de "My Public Lands Roadtrip- Dalton Highway in Alaska") | Public domain | [link](https://commons.wikimedia.org/wiki/File:My_Public_Lands_Roadtrip-_Dalton_Highway_in_Alaska_(18688661384).jpg) |
 | `the-other-pantheons/001/enma_pintura.jpg` | Kawanabe Kyōsai | Public domain | [link](https://commons.wikimedia.org/wiki/File:Kyosai_painting_on_silk_of_Emma,_the_King_of_Hell,_walking_with_Jigokudayu.jpg) |
 | `the-other-pantheons/001/enma_pintura_rec.jpg` | Kawanabe Kyōsai | Public domain | [link](https://commons.wikimedia.org/wiki/File:Kyosai_painting_on_silk_of_Emma,_the_King_of_Hell,_walking_with_Jigokudayu.jpg) |
