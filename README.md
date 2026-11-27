@@ -18,6 +18,9 @@ Cada arquivo mantém a licença original; gráficos próprios são do blog indic
 | `ice-and-bone/003/livre_malta_agulhas.jpg` | Лапоть | CC0 | [link](https://commons.wikimedia.org/wiki/File:Malta_artefacts_3_GIM.jpg) |
 | `ice-and-bone/003/livre_mezhyrich_ossos.jpg` | Momotarou2012 | CC BY-SA 3.0 | [link](https://commons.wikimedia.org/wiki/File:Dwelling_made_with_mammoth_bones.jpg) |
 | `ice-and-bone/003/livre_sibudu_abrigo.jpg` | M. Ecker | CC BY 4.0 | [link](https://commons.wikimedia.org/wiki/File:10.1371.journal.pone.0098359.g002.jpg) |
+| `ice-and-bone/004/livre_caverna_baishiya.jpg` | Dongju Zhang | CC BY-SA 4.0 | [link](https://commons.wikimedia.org/wiki/File:Baishiya_Karst_Cave.jpg) |
+| `ice-and-bone/004/livre_falange_denisova.jpg` | Thilo Parg | CC BY-SA 3.0 | [link](https://commons.wikimedia.org/wiki/File:Denisova_Phalanx_distalis.jpg) |
+| `ice-and-bone/004/livre_rosto_homo_longi.jpg` | Cicero Moraes | CC BY 4.0 | [link](https://commons.wikimedia.org/wiki/File:Homo_longi_-_forensic_facial_approximation.jpg) |
 | `ice-and-bone/marca/cabecalho_v1.0.jpg` | Ice and Bone (montagem própria sobre pinturas de Lascaux, domínio público) | Própria |  |
 | `light-years-wide/001/livre_ferradura_hubble.jpg` | ESA/Hubble &amp; NASA | Public domain | [link](https://commons.wikimedia.org/wiki/File:Lensshoe_hubble.jpg) |
 | `light-years-wide/001/livre_m87_eht.jpg` | Event Horizon Telescope | CC BY 4.0 | [link](https://commons.wikimedia.org/wiki/File:Black_hole_-_Messier_87.jpg) |
